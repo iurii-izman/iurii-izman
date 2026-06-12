@@ -9,11 +9,13 @@ that combines desktop UX, speech-to-text, retrieval, and LLM workflows.
 
 [![GitHub achievements](https://img.shields.io/badge/GitHub-Achievements-181717?logo=github)](https://github.com/iurii-izman?tab=achievements)
 [![Developer Program](https://img.shields.io/badge/GitHub-Developer_Program-181717?logo=github)](https://docs.github.com/en/developers/overview/github-developer-program)
+[![Replyline beta](https://img.shields.io/github/v/release/iurii-izman/replyline?include_prereleases&label=Replyline%20beta)](https://github.com/iurii-izman/replyline/releases/tag/v0.2.0-beta.1)
+[![Replyline CI](https://github.com/iurii-izman/replyline/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/iurii-izman/replyline/actions/workflows/ci.yml)
 
 ## Current focus
 
-- Shipping **Replyline**, a Windows-first Tauri application for difficult live
-  work conversations.
+- Shipping the [Replyline public beta](https://iurii-izman.github.io/replyline/),
+  a Windows-first Tauri application for difficult live work conversations.
 - Improving safety, reliability, local UX, and beta readiness.
 - Building reusable engineering workflows with explicit quality gates,
   policy checks, and auditable automation.
