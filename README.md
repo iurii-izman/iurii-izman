@@ -13,6 +13,14 @@ operator-grade automation.
 [![Replyline beta](https://img.shields.io/github/v/release/iurii-izman/replyline?include_prereleases&label=Replyline%20beta)](https://github.com/iurii-izman/replyline/releases/tag/v0.2.0-beta.3)
 [![Replyline demo](https://img.shields.io/badge/Replyline-demo_site-0F766E)](https://iurii-izman.github.io/replyline/)
 
+## Start Here
+
+- [Replyline demo](https://iurii-izman.github.io/replyline/) - flagship desktop product entry point
+- [Bitrix24 intake walkthrough](https://github.com/iurii-izman/ai-lead-intake-bitrix24/blob/main/docs/demo_walkthrough.md) - fastest CRM automation case review
+- [Communication summary release](https://github.com/iurii-izman/bitrix24-communication-summary-agent/releases/tag/v0.1.0) - Bitrix24 summary/action prototype
+- [AI Stack docs](https://github.com/iurii-izman/ai-stack/blob/main/docs/index.md) - operator stack architecture and operations
+- [CV and certifications](https://github.com/iurii-izman/professional-certifications/blob/main/Iurii_Izman_CV_AI_Engineer_EN.pdf) - credibility layer and domain background
+
 ## Current Focus
 
 - Shipping the [Replyline public beta](https://iurii-izman.github.io/replyline/),
