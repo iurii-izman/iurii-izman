@@ -28,28 +28,31 @@ operator-grade automation.
 | Project | What it does | Stack |
 | --- | --- | --- |
 | [Replyline](https://github.com/iurii-izman/replyline) | Windows-first live conversation assistant with one actionable response card. | Rust, Tauri 2, SolidJS, TypeScript |
-| [Slova](https://github.com/iurii-izman/slova) | Desktop batch transcription with Groq Whisper, queueing, and local transcript editing. | Rust, Tauri 2, SolidJS, SQLite |
 | [AI Lead Intake Bitrix24](https://github.com/iurii-izman/ai-lead-intake-bitrix24) | Demo-first CRM intake automation with AI routing, review gates, and real Bitrix24 validation. | Python, FastAPI, Bitrix24 |
-| [Bitrix24 Communication Summary Agent](https://github.com/iurii-izman/bitrix24-communication-summary-agent) | Summarizes calls, emails, and chats into CRM actions with human-in-the-loop review. | Python, FastAPI, Bitrix24 |
 | [AI Stack](https://github.com/iurii-izman/ai-stack) | Local AI operator stack for Windows 11 / WSL2 with LiteLLM, Ollama, and Open WebUI. | Docker, PowerShell, WSL2 |
-| [n8nnotion](https://github.com/iurii-izman/n8nnotion) | n8n + Notion automation template for webhook intake and structured job tracking. | n8n, Notion, PowerShell |
-| [VacancyPilot](https://github.com/iurii-izman/VacancyPilot) | Local-first HH.ru job-search copilot with explainable scoring and tracking. | TypeScript, React, Browser Extension |
+| [Bitrix24 Communication Summary Agent](https://github.com/iurii-izman/bitrix24-communication-summary-agent) | Summarizes calls, emails, and chats into CRM actions with human-in-the-loop review. | Python, FastAPI, Bitrix24 |
+| [Slova](https://github.com/iurii-izman/slova) | Desktop batch transcription with Groq Whisper, queueing, and local transcript editing. | Rust, Tauri 2, SolidJS, SQLite |
 | [Professional Certifications](https://github.com/iurii-izman/professional-certifications) | Public record of certifications and continuous learning across AI, CRM, ERP, and analysis. | Documentation |
 
-## Recommended Pinned Order
+## Current Pinned Set
 
 1. `replyline`
-2. `slova`
-3. `ai-lead-intake-bitrix24`
+2. `ai-lead-intake-bitrix24`
+3. `ai-stack`
 4. `bitrix24-communication-summary-agent`
-5. `ai-stack`
-6. `n8nnotion`
-7. `VacancyPilot`
-8. `professional-certifications`
+5. `slova`
+6. `professional-certifications`
 
-This set presents a balanced public narrative: product-facing desktop apps,
-CRM automation, operator tooling, workflow automation, and credibility/support
-evidence.
+This top-6 set is the current public showcase: one flagship desktop product,
+two Bitrix24 automation cases, one operator stack, one additional desktop proof
+point, and one credibility layer.
+
+## Secondary Repositories
+
+- `n8nnotion` - workflow automation template and structured job-tracking case
+- `VacancyPilot` - browser-extension product for explainable HH.ru job search
+- `roleforge` - Gmail-first job-intelligence and Telegram delivery workflow
+- `crm-deal-health-agent` - adjacent Bitrix24 CRM quality automation case
 
 ## Technology Surface
 
@@ -73,7 +76,7 @@ evidence.
 
 ## Public Profile Structure
 
-- **Pinned repositories:** the 8 repositories listed above.
+- **Pinned repositories:** the 6 repositories listed above.
 - **Profile headline:** local-first AI products, automation systems, and
   operator-grade workflows.
 - **Primary themes:** desktop AI UX, Bitrix24/CRM automation, workflow
